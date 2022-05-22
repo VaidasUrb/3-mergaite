@@ -5,7 +5,7 @@
 
 # mergaite
 
-_32 group website project_
+_30 group website project_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
@@ -15,33 +15,10 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 ## Project features
 
-- Github pages
-- CSS
-- Image
+-   Github pages
+-   CSS
+-   Image
 
 ## Authors
 
 Vaidas: [Github](https://github.com/VaidasUrb)
-
-## Code sample
-
-```html
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mergaite/title>
-</head>
-```
-
-```css
-.class {
-  background-color: red;
-}
-```
-
-```js
-function sum(a, b) {
-  return a + b;
-}
-```
